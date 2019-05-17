@@ -1,0 +1,8 @@
+1
+hotfix!
+diverge-A
+<<<<<<< HEAD
+diverge-A-conflict
+=======
+diverge-B-conflict
+>>>>>>> diverge/b-conflict
