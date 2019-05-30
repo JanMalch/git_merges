@@ -1,5 +1,7 @@
 # git_merges
 
+![network](https://user-images.githubusercontent.com/25508038/58631259-4d24fc00-82e2-11e9-916b-f022437af472.PNG)
+
 ```bash
 history
 ```
